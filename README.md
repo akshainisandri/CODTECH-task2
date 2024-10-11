@@ -51,15 +51,19 @@ Provides the main interface for user interaction.
 Manages the workflow of user registration, account operations, and transaction management.
 
 ## Technology Stack:
-Programming Language: Java
-Data Handling: In-memory storage using ArrayLists to manage users, accounts, and transactions.
-User Interface: Console-based, providing text menus for interaction.
-Features:
-User-Friendly Interface: Simple text-based menus for easy navigation and interaction.
-Account Flexibility: Users can manage multiple bank accounts within a single profile.
-Transaction Security: Validations ensure that operations like withdrawals and transfers adhere to balance limits.
-Transaction History: Full history of account activities, providing transparency for all operations.
-Potential for Expansion:
-GUI Development: Integrate a graphical user interface for a more intuitive user experience.
-Database Integration: Add database support to persist data beyond the runtime of the program.
-Additional Banking Features: Expand the system to include functionalities like loan processing, interest calculation, or bill payments.
+**Programming Language**: Java
+**Data Handling**: In-memory storage using ArrayLists to manage users, accounts, and transactions.
+**User Interface**: Console-based, providing text menus for interaction.
+
+## Features:
+**User-Friendly Interface**: Simple text-based menus for easy navigation and interaction.
+**Account Flexibility**: Users can manage multiple bank accounts within a single profile.
+**Transaction Security**: Validations ensure that operations like withdrawals and transfers adhere to balance limits.
+**Transaction History**: Full history of account activities, providing transparency for all operations.
+
+## Potential for Expansion:
+**GUI Development**: Integrate a graphical user interface for a more intuitive user experience.
+**Database Integration**: Add database support to persist data beyond the runtime of the program.
+**Additional Banking Features**: Expand the system to include functionalities like loan processing, interest calculation, or bill payments.
+![Screenshot 2024-10-11 090726](https://github.com/user-attachments/assets/6b9c8076-27ce-463f-8033-6d3cc7135df2)
+
